@@ -6,7 +6,7 @@
       digital_ocean_droplet:
         state: present
         name: testdroplet
-        oauth_token: a889361f2eab014f762343d64b4c23b3ae62cbea8cc77e346be6aff525bc9acd
+        oauth_token: <your token> 
         size: s-1vcpu-1gb
         region: fra1
         image: ubuntu-20-04-x64
